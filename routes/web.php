@@ -23,4 +23,3 @@ Route::get('/', function () {
 
 
 
-Route::resource('ngobars',NgobarController::class);
